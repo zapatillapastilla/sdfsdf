@@ -1,0 +1,244 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "zombie_extreme:demolisher",
+    "minecraft:giant",
+    "zombie_extreme:infected",
+    "minecraft:trader_llama",
+    "apocalypsenow:soldiers_02",
+    "minecraft:horse",
+    "zombie_extreme:parasite",
+    "zombie_extreme:infected_juggernaut",
+    "minecraft:llama",
+    "minecraft:husk",
+    "zombie_extreme:goon",
+    "minecraft:dolphin",
+    "apocalypsenow:rat",
+    "apocalypsenow:hunter",
+    "zombie_extreme:infected_military",
+    "minecraft:donkey",
+    "zombie_extreme:patient_zero",
+    "minecraft:piglin_brute",
+    "zombie_extreme:divided",
+    "minecraft:bee",
+    "sona:sound_decoy",
+    "minecraft:illusioner",
+    "apocalypsenow:military_medic",
+    "minecraft:mooshroom",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "zombie_extreme:faceless",
+    "zombie_extreme:infected_police",
+    "zombie_extreme:revived",
+    "minecraft:parrot",
+    "zombie_extreme:bomber",
+    "zombie_extreme:inflated",
+    "apocalypsenow:horde_2",
+    "apocalypsenow:horde_3",
+    "apocalypsenow:horde_4",
+    "zombie_extreme:boomer",
+    "apocalypsenow:horde_5",
+    "apocalypsenow:horde_1",
+    "jeg:boo",
+    "minecraft:wandering_trader",
+    "zombie_extreme:clicker",
+    "zombiekit:heavy_machine_gun",
+    "minecraft:mule",
+    "minecraft:vindicator",
+    "apocalypsenow:soldiers",
+    "minecraft:evoker",
+    "minecraft:pufferfish",
+    "zombie_extreme:infected_hazmat",
+    "minecraft:fox",
+    "minecraft:chicken",
+    "minecraft:zombie",
+    "zombie_extreme:ram",
+    "apocalypsenow:looter_3",
+    "apocalypsenow:looter_4",
+    "apocalypsenow:walker_29",
+    "apocalypsenow:looter_5",
+    "apocalypsenow:walker_28",
+    "apocalypsenow:walker_27",
+    "apocalypsenow:walker_26",
+    "apocalypsenow:walker_25",
+    "apocalypsenow:looter_1",
+    "minecraft:hoglin",
+    "apocalypsenow:walker_24",
+    "apocalypsenow:looter_2",
+    "apocalypsenow:walker_23",
+    "apocalypsenow:walker_22",
+    "apocalypsenow:walker_21",
+    "apocalypsenow:walker_20",
+    "apocalypsenow:walker_3",
+    "minecraft:polar_bear",
+    "apocalypsenow:walker_2",
+    "apocalypsenow:walker_5",
+    "apocalypsenow:walker_4",
+    "minecraft:zombified_piglin",
+    "apocalypsenow:walker_1",
+    "minecraft:pig",
+    "minecraft:turtle",
+    "apocalypsenow:walker_7",
+    "minecraft:sheep",
+    "apocalypsenow:walker_6",
+    "apocalypsenow:walker_9",
+    "apocalypsenow:walker_8",
+    "apocalypsenow:walker_33",
+    "apocalypsenow:walker_32",
+    "apocalypsenow:walker_31",
+    "apocalypsenow:walker_30",
+    "minecraft:goat",
+    "zombiekit:uv_lamp",
+    "minecraft:cod",
+    "zombie_extreme:assasin_black_ops",
+    "zombie_extreme:rat_king",
+    "zombiekit:drone",
+    "minecraft:ravager",
+    "zombie_extreme:runner",
+    "minecraft:cow",
+    "gravestone:player_ghost",
+    "apocalypsenow:survivor_5",
+    "apocalypsenow:survivor_4",
+    "apocalypsenow:survivor_3",
+    "apocalypsenow:survivor_2",
+    "apocalypsenow:survivor_1",
+    "minecraft:salmon",
+    "apocalypsenow:walker_19",
+    "apocalypsenow:walker_18",
+    "apocalypsenow:walker_17",
+    "apocalypsenow:survivor_9",
+    "apocalypsenow:walker_16",
+    "apocalypsenow:survivor_8",
+    "apocalypsenow:walker_15",
+    "apocalypsenow:survivor_7",
+    "apocalypsenow:walker_14",
+    "apocalypsenow:survivor_6",
+    "apocalypsenow:walker_13",
+    "apocalypsenow:walker_12",
+    "apocalypsenow:walker_11",
+    "apocalypsenow:walker_10",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "minecraft:zoglin",
+    "zombie_extreme:night_hunter",
+    "minecraft:bat",
+    "zombie_extreme:devastated",
+    "apocalypsenow:runner_39",
+    "apocalypsenow:runner_38",
+    "minecraft:piglin",
+    "apocalypsenow:runner_37",
+    "apocalypsenow:runner_36",
+    "apocalypsenow:runner_35",
+    "apocalypsenow:runner_34",
+    "apocalypsenow:crawler_3",
+    "apocalypsenow:survivor_10",
+    "apocalypsenow:crawler_2",
+    "apocalypsenow:crawler_4",
+    "apocalypsenow:crawler_1",
+    "apocalypsenow:military_02",
+    "apocalypsenow:military_01",
+    "apocalypsenow:cockroach",
+    "apocalypsenow:runner_49",
+    "zombie_extreme:fetus",
+    "apocalypsenow:runner_48",
+    "minecraft:zombie_horse",
+    "apocalypsenow:runner_43",
+    "apocalypsenow:runner_42",
+    "apocalypsenow:runner_41",
+    "apocalypsenow:runner_40",
+    "apocalypsenow:runner_47",
+    "apocalypsenow:runner_46",
+    "apocalypsenow:runner_45",
+    "apocalypsenow:cannibal",
+    "apocalypsenow:runner_44",
+    "zombie_extreme:military",
+    "minecraft:cat",
+    "apocalypsenow:runner_50",
+    "minecraft:tropical_fish",
+    "jeg:ghoul",
+    "minecraft:ocelot",
+    "zombie_extreme:chainsaw",
+    "apocalypsenow:runner_54",
+    "apocalypsenow:runner_53",
+    "minecraft:wolf",
+    "apocalypsenow:runner_52",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "apocalypsenow:runner_51",
+    "zombie_extreme:crawler",
+    "apocalypsenow:runner_57",
+    "apocalypsenow:runner_56",
+    "apocalypsenow:runner_55"
+]
