@@ -1,0 +1,27 @@
+{
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-19 05:08:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-12-19 05:09:03 +0000"
+    },
+    "done": false
+  },
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2024-12-19 05:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-19 05:08:06 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
