@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
@@ -368,6 +374,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal_smithing": {
+    "criteria": {
+      "has_coal": "2024-12-18 22:59:03 +0000"
     },
     "done": true
   },
@@ -464,6 +476,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-12-15 01:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
     },
     "done": true
   },
@@ -702,6 +720,7 @@
       "dryland": "2024-12-17 22:02:14 +0000",
       "wasteland": "2024-12-17 22:17:15 +0000",
       "lush_desert": "2024-12-17 22:04:40 +0000",
+      "old_growth_dead_forest": "2024-12-19 00:08:32 +0000",
       "redwood_forest": "2024-12-17 04:13:31 +0000",
       "dune_beach": "2024-12-18 00:03:32 +0000",
       "seasonal_forest": "2024-12-15 00:11:41 +0000",
@@ -751,6 +770,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-15 02:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-18 22:42:11 +0000"
     },
     "done": true
   },
@@ -1528,6 +1553,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-18 23:15:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-15 01:36:45 +0000"
@@ -1817,14 +1848,20 @@
     "criteria": {
       "minecraft:taiga": "2024-12-15 02:30:00 +0000",
       "minecraft:eroded_badlands": "2024-12-17 22:16:59 +0000",
+      "minecraft:frozen_river": "2024-12-19 00:08:26 +0000",
       "minecraft:sunflower_plains": "2024-12-15 19:31:15 +0000",
       "minecraft:wooded_badlands": "2024-12-17 22:49:01 +0000",
       "minecraft:badlands": "2024-12-17 22:45:09 +0000",
       "minecraft:beach": "2024-12-14 23:07:38 +0000",
       "minecraft:river": "2024-12-14 23:38:21 +0000",
+      "minecraft:cold_ocean": "2024-12-19 00:16:08 +0000",
       "minecraft:forest": "2024-12-15 00:33:47 +0000",
+      "minecraft:frozen_ocean": "2024-12-19 00:14:33 +0000",
       "minecraft:desert": "2024-12-17 22:01:38 +0000",
+      "minecraft:windswept_forest": "2024-12-18 23:55:10 +0000",
       "minecraft:ocean": "2024-12-17 04:01:37 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-18 23:54:57 +0000",
+      "minecraft:snowy_beach": "2024-12-19 00:08:11 +0000",
       "minecraft:warm_ocean": "2024-12-17 22:21:22 +0000",
       "minecraft:flower_forest": "2024-12-15 00:17:10 +0000",
       "minecraft:meadow": "2024-12-15 01:48:33 +0000",
@@ -2607,6 +2644,7 @@
     "criteria": {
       "beef": "2024-12-15 00:32:15 +0000",
       "baked_potato": "2024-12-15 16:25:18 +0000",
+      "porkchop": "2024-12-18 22:41:47 +0000",
       "apple": "2024-12-15 01:42:03 +0000",
       "potato": "2024-12-15 19:29:37 +0000",
       "bread": "2024-12-15 01:54:25 +0000",
@@ -2742,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_item": {
     "criteria": {
       "has_stone_button": "2024-12-15 01:35:08 +0000"
@@ -2799,6 +2843,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-15 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
     },
     "done": true
   },
@@ -3612,6 +3662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
@@ -4221,6 +4277,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-17 20:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 22:20:13 +0000"
     },
     "done": true
   },

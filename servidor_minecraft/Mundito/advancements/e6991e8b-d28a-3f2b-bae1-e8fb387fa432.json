@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/coal_smithing": {
+    "criteria": {
+      "has_coal": "2024-12-18 22:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-14 23:07:25 +0000"
@@ -494,6 +500,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-14 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brick_slab_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-18 22:31:03 +0000"
     },
     "done": true
   },
@@ -855,6 +867,7 @@
       "minecraft:skeleton": "2024-12-15 02:40:59 +0000",
       "minecraft:spider": "2024-12-15 19:32:54 +0000",
       "minecraft:creeper": "2024-12-15 01:59:18 +0000",
+      "minecraft:zombified_piglin": "2024-12-18 22:31:51 +0000",
       "minecraft:husk": "2024-12-16 00:53:50 +0000",
       "minecraft:cave_spider": "2024-12-15 02:41:15 +0000",
       "minecraft:enderman": "2024-12-17 04:08:37 +0000",
@@ -1552,6 +1565,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 19:33:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brick_slab": {
+    "criteria": {
+      "has_block": "2024-12-18 22:31:03 +0000"
     },
     "done": true
   },
@@ -3654,6 +3673,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_brick_wall_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-18 22:31:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-14 23:07:25 +0000"
@@ -3822,9 +3847,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_brick_stairs": {
+    "criteria": {
+      "has_block": "2024-12-18 22:31:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brick_stairs_from_reinforced_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_bricks": "2024-12-18 22:31:03 +0000"
     },
     "done": true
   },
@@ -4061,6 +4098,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-15 00:23:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brick_wall": {
+    "criteria": {
+      "has_block": "2024-12-18 22:31:03 +0000"
     },
     "done": true
   },
