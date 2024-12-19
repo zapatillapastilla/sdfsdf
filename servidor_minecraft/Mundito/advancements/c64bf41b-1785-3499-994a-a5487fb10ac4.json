@@ -727,7 +727,8 @@
       "pasture": "2024-12-15 19:45:38 +0000",
       "lavender_field": "2024-12-15 01:38:32 +0000",
       "fir_clearing": "2024-12-16 01:47:27 +0000",
-      "prairie": "2024-12-15 00:28:33 +0000"
+      "prairie": "2024-12-15 00:28:33 +0000",
+      "undergrowth": "2024-12-19 06:16:55 +0000"
     },
     "done": false
   },
@@ -3932,6 +3933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-19 05:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2024-12-15 22:33:28 +0000"
@@ -3989,6 +3996,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-19 06:06:18 +0000"
     },
     "done": true
   },
@@ -4223,6 +4236,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-18 04:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-19 05:35:39 +0000"
     },
     "done": true
   },
