@@ -3142,6 +3142,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv1_reset": {
+    "criteria": {
+      "has_keycard": "2024-12-20 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
