@@ -3226,3 +3226,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 01:21:40.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell while climbing
 [20Dec2024 01:22:53.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran llama a leo
 [20Dec2024 01:23:03.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> desaparecio mi tumba de la nada xd
+[20Dec2024 01:36:35.070] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22bf753a
+[20Dec2024 01:36:35.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:51327] logged in with entity id 15195 at (-795.2087758962068, 86.0625, -626.9828126894738)
+[20Dec2024 01:36:35.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 01:36:52.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 01:36:57.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Flancito0_]
+[20Dec2024 01:37:05.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[20Dec2024 01:37:05.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 01:37:42.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e1cad14
+[20Dec2024 01:37:42.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:38199] logged in with entity id 15463 at (-1448.1901110907957, -21.0, -80.33515700913237)
+[20Dec2024 01:37:42.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 01:38:17.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> aja ven
+[20Dec2024 01:38:28.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[20Dec2024 01:38:28.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 01:39:04.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3767870d
+[20Dec2024 01:39:04.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:55875] logged in with entity id 15886 at (-806.0826085369156, 79.62038657789968, -625.0675367725185)
+[20Dec2024 01:39:05.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 01:39:26.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 01:39:32.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> sabes xq se desaparecio
+[20Dec2024 01:39:57.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xq cuando subi a tu cuerda y me pego el esqueleto el mod no supo donde ponerlo xd
+[20Dec2024 01:40:23.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> en la cuerda no me lo puso xq estaba dentro del bloque
+[20Dec2024 01:40:33.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ira
+[20Dec2024 01:40:38.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Successfully restored Camilacapita's items]
+[20Dec2024 01:40:50.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> MI TASEER
+[20Dec2024 01:41:08.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> na seme desaparecio :c
+[20Dec2024 01:41:26.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> de q?
+[20Dec2024 01:41:53.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> a porq pense q no se desaparecerian
+[20Dec2024 01:42:06.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ñio
+[20Dec2024 01:42:13.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el taser noma
+[20Dec2024 01:42:16.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[20Dec2024 01:42:37.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ño
+[20Dec2024 01:42:49.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el peque
+[20Dec2024 01:43:01.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> hay te enseño
+[20Dec2024 01:43:02.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to EroDragonEx]
+[20Dec2024 01:43:41.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> espera pue
+[20Dec2024 01:44:08.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ira
+[20Dec2024 01:44:22.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> SE MULTIPLICO
+[20Dec2024 01:44:30.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> wathat?
+[20Dec2024 01:44:36.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> lo tire xd
