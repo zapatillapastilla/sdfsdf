@@ -4269,3 +4269,70 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 04:02:40.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tranqui
 [20Dec2024 04:02:53.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ire al nether
 [20Dec2024 04:02:54.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:07:54.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:08:39.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[20Dec2024 04:08:39.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 left the game
+[20Dec2024 04:08:47.620] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37e96bd4
+[20Dec2024 04:08:47.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:50663] logged in with entity id 72183 at (-801.5669787018189, 81.0, -616.9087829655466)
+[20Dec2024 04:08:47.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[20Dec2024 04:10:21.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:10:54.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci
+[20Dec2024 04:10:58.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no
+[20Dec2024 04:15:26.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> q cosa?
+[20Dec2024 04:15:40.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si se puede ver
+[20Dec2024 04:16:18.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -0.9876659393197542,0.0,9.97635559066373
+[20Dec2024 04:16:23.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> en controles dice first
+[20Dec2024 04:16:29.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected
+[20Dec2024 04:16:29.930] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-04.16.29.dat
+[20Dec2024 04:16:29.930] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -143 Y: 83.0 Z: 11
+[20Dec2024 04:17:13.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:17:43.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava to escape Chainsaw
+[20Dec2024 04:17:48.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:18:30.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> enderman afuera
+[20Dec2024 04:18:43.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:19:06.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:19:25.751] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f4ab7ea
+[20Dec2024 04:19:25.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tukisito[/127.5.90.10:41853] logged in with entity id 79017 at (-860.7239624454396, 64.0, -689.2701005027095)
+[20Dec2024 04:19:25.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito joined the game
+[20Dec2024 04:20:06.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tukisito lost connection: Disconnected
+[20Dec2024 04:20:06.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito left the game
+[20Dec2024 04:21:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> yo
+[20Dec2024 04:21:43.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:22:07.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was blown up by Chainsaw
+[20Dec2024 04:22:14.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:22:25.375] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-943, y=57, z=-631}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:25.377] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-943, y=57, z=-629}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:25.377] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-944, y=56, z=-634}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:25.378] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-943, y=57, z=-631}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:25.379] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-944, y=59, z=-632}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:25.379] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -40], pos: MutableBlockPos{x=-944, y=58, z=-634}, status: minecraft:features, currently generating: Placed Reference{ResourceKey[minecraft:worldgen/configured_feature / projectvibrantjourneys:charred_bones]=Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@3ae5cbb9: RandomPatchConfiguration[tries=50, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: com.projectvibrantjourneys.common.world.features.SimpleBlockMatchWaterFeature@37840cfa: SimpleBlockConfiguration[toPlace=net.minecraft.world.level.levelgen.feature.stateproviders.RandomizedIntStateProvider@5c52bc6d]}}]}
+[20Dec2024 04:22:38.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Zombified Piglin
+[20Dec2024 04:23:40.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> siempre me pasa
+[20Dec2024 04:23:53.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:24:18.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:25:10.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:25:32.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:25:47.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:26:48.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:27:01.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Chainsaw
+[20Dec2024 04:27:16.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> llamen a leo
+[20Dec2024 04:27:28.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> hay un zombie campeando en el portal
+[20Dec2024 04:27:44.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> literal mente esta dentro del portal
+[20Dec2024 04:27:54.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Looter
+[20Dec2024 04:28:29.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> a ya ta
+[20Dec2024 04:29:20.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Runner
+[20Dec2024 04:29:45.581] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79e0adf2
+[20Dec2024 04:29:45.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tukisito[/127.5.90.10:41379] logged in with entity id 87886 at (-860.7239624454396, 64.0, -689.2701005027095)
+[20Dec2024 04:29:45.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito joined the game
+[20Dec2024 04:30:05.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was doomed to fall by Runner
+[20Dec2024 04:30:39.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected Hazmat
+[20Dec2024 04:31:56.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
+[20Dec2024 04:31:56.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[20Dec2024 04:32:13.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was shot by Skeleton
+[20Dec2024 04:32:13.300] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-04.32.13.dat
+[20Dec2024 04:32:13.301] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -691 Y: 25.0 Z: 92
+[20Dec2024 04:33:42.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito was slain by Spider
+[20Dec2024 04:33:51.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Spider
+[20Dec2024 04:35:18.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31ebb68b
+[20Dec2024 04:35:18.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:46939] logged in with entity id 90249 at (-59.69999998807907, 78.0, -88.30000001192093)
+[20Dec2024 04:35:18.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
