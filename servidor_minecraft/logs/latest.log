@@ -4612,3 +4612,117 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 06:24:35.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 has made the advancement [Hot Stuff]
 [20Dec2024 06:24:57.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
 [20Dec2024 06:26:23.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 06:27:06.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx fell from a high place
+[20Dec2024 06:27:06.233] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.27.06.dat
+[20Dec2024 06:27:06.233] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -792 Y: 66.0 Z: -624
+[20Dec2024 06:31:04.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 06:31:40.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[20Dec2024 06:31:40.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 06:32:13.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ed250a0[id=<null>,name=EroDragonEx,properties={},legacy=false] (/127.25.68.214:38743) lost connection: Disconnected
+[20Dec2024 06:33:47.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4425e35f[id=<null>,name=EroDragonEx,properties={},legacy=false] (/127.25.68.214:44547) lost connection: Disconnected
+[20Dec2024 06:34:29.871] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9de60cd[id=<null>,name=EroDragonEx,properties={},legacy=false] (/127.25.68.214:49437) lost connection: Disconnected
+[20Dec2024 06:36:02.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c9c5b80
+[20Dec2024 06:36:02.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:48651] logged in with entity id 142053 at (-784.0538558193041, 81.29292760324437, -637.518926774424)
+[20Dec2024 06:36:02.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 06:36:30.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to iiHo_shi]
+[20Dec2024 06:36:58.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 06:37:15.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[20Dec2024 06:37:15.925] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-06.37.15.dat
+[20Dec2024 06:37:15.925] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -757 Y: 68.0 Z: -605
+[20Dec2024 06:37:26.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[20Dec2024 06:38:54.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx died because of Ghoul
+[20Dec2024 06:38:54.933] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.38.54.dat
+[20Dec2024 06:38:54.933] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -909 Y: 64.0 Z: -553
+[20Dec2024 06:39:35.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Runner
+[20Dec2024 06:39:47.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Disconnected
+[20Dec2024 06:39:47.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 06:40:07.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b0d9386
+[20Dec2024 06:40:07.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:54977] logged in with entity id 143718 at (-907.3597700034347, 64.0, -552.8991902330463)
+[20Dec2024 06:40:07.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 06:41:42.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Looter
+[20Dec2024 06:42:28.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx has made the advancement [Who is Cutting Onions?]
+[20Dec2024 06:42:44.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Looter
+[20Dec2024 06:42:44.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.42.44.dat
+[20Dec2024 06:42:44.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -892 Y: 67.0 Z: -524
+[20Dec2024 06:43:28.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> q paso
+[20Dec2024 06:43:40.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> en el bosque
+[20Dec2024 06:43:45.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> la ak?
+[20Dec2024 06:45:15.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[20Dec2024 06:45:15.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-06.45.15.dat
+[20Dec2024 06:45:15.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -810 Y: 66.29954387296488 Z: -632
+[20Dec2024 06:46:51.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Zombie
+[20Dec2024 06:49:20.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx fell from a high place
+[20Dec2024 06:49:20.612] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.49.20.dat
+[20Dec2024 06:49:20.613] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -803 Y: 86.0 Z: -621
+[20Dec2024 06:51:04.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 06:51:09.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 06:51:10.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx fell from a high place
+[20Dec2024 06:51:10.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.51.10.dat
+[20Dec2024 06:51:10.363] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -801 Y: 86.0 Z: -618
+[20Dec2024 06:51:44.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> ven Marce
+[20Dec2024 06:51:52.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Uzumaki0502]
+[20Dec2024 06:51:57.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Uzumaki0502]
+[20Dec2024 06:51:59.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Uzumaki0502]
+[20Dec2024 06:52:48.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Removed every effect from EroDragonEx]
+[20Dec2024 06:52:53.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Removed every effect from Uzumaki0502]
+[20Dec2024 06:52:57.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Removed every effect from EroDragonEx]
+[20Dec2024 06:53:01.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Removed every effect from EroDragonEx]
+[20Dec2024 06:53:03.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Removed every effect from EroDragonEx]
+[20Dec2024 06:53:30.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx died
+[20Dec2024 06:53:30.407] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-06.53.30.dat
+[20Dec2024 06:53:30.407] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -809 Y: 68.0 Z: -602
+[20Dec2024 06:53:30.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Killed EroDragonEx]
+[20Dec2024 06:53:47.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx fell while climbing
+[20Dec2024 06:53:47.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Killed EroDragonEx]
+[20Dec2024 06:56:00.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> aun quieres lava?
+[20Dec2024 06:56:06.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 06:57:12.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> q
+[20Dec2024 06:57:20.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> por q
+[20Dec2024 06:57:51.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> JHDFHJD
+[20Dec2024 06:58:04.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> tienes algun papel q aparezca la mochila?
+[20Dec2024 06:58:11.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> 1 solo
+[20Dec2024 06:58:21.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> ni uno?
+[20Dec2024 06:58:24.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> uno solito
+[20Dec2024 06:58:36.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 06:58:47.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 06:58:58.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> si encuentras algun papel dime
+[20Dec2024 06:59:17.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 06:59:33.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> pero la tirasrte y quemaste?
+[20Dec2024 06:59:48.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> no la tenes puesta??
+[20Dec2024 07:00:06.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> la tenias puesta
+[20Dec2024 07:00:07.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> DHFJD
+[20Dec2024 07:00:09.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> ya sabia
+[20Dec2024 07:00:14.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 07:00:21.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> se la puso
+[20Dec2024 07:00:26.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> basicamente
+[20Dec2024 07:00:41.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> cosas q pasan
+[20Dec2024 07:00:52.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> no tienes sueño?
+[20Dec2024 07:01:04.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> mañana trabajs?
+[20Dec2024 07:01:13.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> aaah, con razon
+[20Dec2024 07:01:23.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> mercado libre
+[20Dec2024 07:01:35.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> JKSHFJD
+[20Dec2024 07:01:49.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> farmacia libre
+[20Dec2024 07:02:14.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> farmacia uber
+[20Dec2024 07:02:25.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> pedidos ya
+[20Dec2024 07:02:45.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> tienes auto? o de la empresa
+[20Dec2024 07:02:58.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> vos cargas los pedidos?
+[20Dec2024 07:03:01.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> o los entregas
+[20Dec2024 07:03:12.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was crushed by a falling tree
+[20Dec2024 07:03:12.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Uzumaki0502 with unique ID travelersbackpack.wolf_20.12.2024-07.03.12.dat
+[20Dec2024 07:03:12.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1050 Y: 67.0 Z: -435
+[20Dec2024 07:03:17.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> JHDJFED
+[20Dec2024 07:03:25.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> los pediiiiiiiiiiii____ me cago en todo
+[20Dec2024 07:03:25.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 07:03:47.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 07:03:48.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 07:03:59.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> q quieres hacer
+[20Dec2024 07:04:08.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> con la lava
+[20Dec2024 07:04:26.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> asa
+[20Dec2024 07:04:37.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> y por q no los cocinas?
+[20Dec2024 07:04:39.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iiHo_shi lost connection: Disconnected
+[20Dec2024 07:04:39.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi left the game
+[20Dec2024 07:04:50.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> con madera quemas madera
+[20Dec2024 07:06:28.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 07:06:32.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Uzumaki0502 to EroDragonEx]
+[20Dec2024 07:24:33.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 07:24:36.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]

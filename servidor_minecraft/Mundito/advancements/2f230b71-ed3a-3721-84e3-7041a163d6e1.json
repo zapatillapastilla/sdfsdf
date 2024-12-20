@@ -4339,6 +4339,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 06:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-15 00:46:37 +0000"
