@@ -4336,3 +4336,279 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 04:35:18.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31ebb68b
 [20Dec2024 04:35:18.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:46939] logged in with entity id 90249 at (-59.69999998807907, 78.0, -88.30000001192093)
 [20Dec2024 04:35:18.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[20Dec2024 04:39:39.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was doomed to fall by Runner
+[20Dec2024 04:40:22.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected Hazmat
+[20Dec2024 04:41:00.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 04:42:26.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell from a high place
+[20Dec2024 04:42:51.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> se re emocionaba xd
+[20Dec2024 04:44:22.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Tukisito> alguien de aca que me pueda dar 1 de cuero ?
+[20Dec2024 04:47:10.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=88, z=-622} BlockPos{x=-797, y=86, z=-622}
+[20Dec2024 04:47:10.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=88, z=-622} BlockPos{x=-797, y=86, z=-622}
+[20Dec2024 04:47:10.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=88, z=-621} BlockPos{x=-797, y=86, z=-621}
+[20Dec2024 04:47:10.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=88, z=-621} BlockPos{x=-797, y=86, z=-621}
+[20Dec2024 04:47:24.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito has made the advancement [A Seedy Place]
+[20Dec2024 04:51:23.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 04:51:23.112] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-04.51.23.dat
+[20Dec2024 04:51:23.112] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -800 Y: 81.0 Z: -624
+[20Dec2024 04:52:14.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=88, z=-615} BlockPos{x=-800, y=86, z=-615}
+[20Dec2024 04:56:23.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[20Dec2024 04:56:23.729] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-04.56.23.dat
+[20Dec2024 04:56:23.729] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -716 Y: 18.0 Z: 101
+[20Dec2024 04:56:25.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:58:37.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito has made the advancement [Diamonds!]
+[20Dec2024 04:59:13.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 04:59:30.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Runner
+[20Dec2024 04:59:30.604] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-04.59.30.dat
+[20Dec2024 04:59:30.604] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -870 Y: 64.0 Z: -562
+[20Dec2024 04:59:53.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Timed out
+[20Dec2024 04:59:53.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 left the game
+[20Dec2024 04:59:59.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ada88e9
+[20Dec2024 04:59:59.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:39763] logged in with entity id 104118 at (-802.5, 81.0, -614.5)
+[20Dec2024 04:59:59.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[20Dec2024 05:01:18.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tukisito lost connection: Disconnected
+[20Dec2024 05:01:18.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tukisito left the game
+[20Dec2024 05:02:42.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no
+[20Dec2024 05:03:20.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> hay un mod q hace eso y no sabemos cual
+[20Dec2024 05:03:55.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> Mai ontas para ayudarte
+[20Dec2024 05:04:19.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <iiHo_shi> -688 85 27
+[20Dec2024 05:04:48.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> recuperen sus cosas si me necesitan avisen
+[20Dec2024 05:06:00.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Zombie
+[20Dec2024 05:06:48.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> me gusta como duerme mi niña <3
+[20Dec2024 05:07:12.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mi parejita
+[20Dec2024 05:07:20.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> kuku
+[20Dec2024 05:09:18.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> me enamoro ;3 como duerme me encanta :D
+[20Dec2024 05:10:18.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 05:18:33.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fd39216
+[20Dec2024 05:18:33.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:58925] logged in with entity id 112073 at (-806.6224619706063, 71.5, -628.0731079703154)
+[20Dec2024 05:18:33.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 05:25:05.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[20Dec2024 05:25:05.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 left the game
+[20Dec2024 05:27:17.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> ya basta
+[20Dec2024 05:27:27.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> no estoy de humor
+[20Dec2024 05:27:28.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> con q permiso entras a la habitacion de mi amix
+[20Dec2024 05:27:55.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> estoy viendo quien mierda me robo de nuevo
+[20Dec2024 05:28:07.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> yo q se
+[20Dec2024 05:28:14.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-614} BlockPos{x=-808, y=75, z=-615}
+[20Dec2024 05:28:14.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-614} BlockPos{x=-808, y=75, z=-615}
+[20Dec2024 05:28:14.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-614} BlockPos{x=-808, y=75, z=-615}
+[20Dec2024 05:28:14.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-614} BlockPos{x=-808, y=75, z=-615}
+[20Dec2024 05:28:15.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-616} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-616} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-616} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-616} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-617} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-617} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-617} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-617} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-617} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-618} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-618} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-618} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-807, y=75, z=-618} BlockPos{x=-807, y=75, z=-615}
+[20Dec2024 05:28:15.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-617} BlockPos{x=-807, y=75, z=-618}
+[20Dec2024 05:28:16.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-617} BlockPos{x=-807, y=75, z=-618}
+[20Dec2024 05:28:16.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-617} BlockPos{x=-807, y=75, z=-618}
+[20Dec2024 05:28:16.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-616} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:16.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-616} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:16.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=75, z=-616} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:16.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-809, y=75, z=-617} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:16.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-809, y=75, z=-617} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:16.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-809, y=75, z=-617} BlockPos{x=-808, y=75, z=-617}
+[20Dec2024 05:28:29.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-614} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-614} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:29.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-615} BlockPos{x=-805, y=75, z=-613}
+[20Dec2024 05:28:30.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-614} BlockPos{x=-806, y=75, z=-615}
+[20Dec2024 05:28:30.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-614} BlockPos{x=-806, y=75, z=-615}
+[20Dec2024 05:28:30.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-616} BlockPos{x=-805, y=75, z=-615}
+[20Dec2024 05:28:30.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-616} BlockPos{x=-805, y=75, z=-615}
+[20Dec2024 05:28:30.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-616} BlockPos{x=-805, y=75, z=-615}
+[20Dec2024 05:28:30.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-617} BlockPos{x=-805, y=75, z=-617}
+[20Dec2024 05:28:31.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-617} BlockPos{x=-805, y=75, z=-617}
+[20Dec2024 05:28:31.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-806, y=75, z=-617} BlockPos{x=-805, y=75, z=-617}
+[20Dec2024 05:28:42.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-615} BlockPos{x=-800, y=75, z=-616}
+[20Dec2024 05:28:42.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-615} BlockPos{x=-800, y=75, z=-616}
+[20Dec2024 05:28:42.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-615} BlockPos{x=-800, y=75, z=-616}
+[20Dec2024 05:28:44.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-616} BlockPos{x=-797, y=75, z=-615}
+[20Dec2024 05:28:44.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-616} BlockPos{x=-797, y=75, z=-615}
+[20Dec2024 05:28:44.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-616} BlockPos{x=-797, y=75, z=-615}
+[20Dec2024 05:28:44.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-616} BlockPos{x=-798, y=75, z=-616}
+[20Dec2024 05:28:44.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-616} BlockPos{x=-798, y=75, z=-616}
+[20Dec2024 05:30:06.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to Camilacapita: Camila, deja de entrar a la pieza de mi primo, se enojo enserio, asi q deja de joderlo o de robarle, si es q lo haces, porfi
+[20Dec2024 05:30:11.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-618} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-617} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-617} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-617} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:11.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-617} BlockPos{x=-800, y=75, z=-617}
+[20Dec2024 05:30:12.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-619} BlockPos{x=-801, y=75, z=-618}
+[20Dec2024 05:30:12.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-619} BlockPos{x=-801, y=75, z=-618}
+[20Dec2024 05:30:12.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-619} BlockPos{x=-801, y=75, z=-618}
+[20Dec2024 05:30:12.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-619} BlockPos{x=-801, y=75, z=-618}
+[20Dec2024 05:30:12.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-619} BlockPos{x=-801, y=75, z=-618}
+[20Dec2024 05:30:12.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-620} BlockPos{x=-801, y=75, z=-619}
+[20Dec2024 05:30:13.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-620} BlockPos{x=-801, y=75, z=-619}
+[20Dec2024 05:30:13.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-620} BlockPos{x=-801, y=75, z=-619}
+[20Dec2024 05:30:13.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-620} BlockPos{x=-801, y=75, z=-620}
+[20Dec2024 05:30:13.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-620} BlockPos{x=-801, y=75, z=-620}
+[20Dec2024 05:30:13.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-620} BlockPos{x=-801, y=75, z=-620}
+[20Dec2024 05:30:13.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-621} BlockPos{x=-802, y=75, z=-620}
+[20Dec2024 05:30:13.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-621} BlockPos{x=-802, y=75, z=-620}
+[20Dec2024 05:30:13.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-621} BlockPos{x=-802, y=75, z=-620}
+[20Dec2024 05:30:13.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-621} BlockPos{x=-802, y=75, z=-621}
+[20Dec2024 05:30:14.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-621} BlockPos{x=-802, y=75, z=-621}
+[20Dec2024 05:30:14.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-621} BlockPos{x=-802, y=75, z=-621}
+[20Dec2024 05:30:14.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-622} BlockPos{x=-801, y=75, z=-621}
+[20Dec2024 05:30:14.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-622} BlockPos{x=-801, y=75, z=-621}
+[20Dec2024 05:30:14.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-622} BlockPos{x=-801, y=75, z=-621}
+[20Dec2024 05:30:14.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-622} BlockPos{x=-801, y=75, z=-621}
+[20Dec2024 05:30:14.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:14.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:14.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:16.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:16.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:16.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:16.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-623} BlockPos{x=-802, y=75, z=-622}
+[20Dec2024 05:30:17.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-621} BlockPos{x=-803, y=75, z=-622}
+[20Dec2024 05:30:17.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-621} BlockPos{x=-803, y=75, z=-622}
+[20Dec2024 05:30:17.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-621} BlockPos{x=-803, y=75, z=-622}
+[20Dec2024 05:30:18.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-621} BlockPos{x=-803, y=75, z=-621}
+[20Dec2024 05:30:18.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-621} BlockPos{x=-803, y=75, z=-621}
+[20Dec2024 05:30:18.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-621} BlockPos{x=-803, y=75, z=-621}
+[20Dec2024 05:30:18.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-620} BlockPos{x=-804, y=75, z=-621}
+[20Dec2024 05:30:18.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-620} BlockPos{x=-804, y=75, z=-621}
+[20Dec2024 05:30:18.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-620} BlockPos{x=-804, y=75, z=-621}
+[20Dec2024 05:30:18.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:18.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:18.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:19.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:19.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:19.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-620} BlockPos{x=-804, y=75, z=-620}
+[20Dec2024 05:30:19.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-619} BlockPos{x=-803, y=75, z=-620}
+[20Dec2024 05:30:19.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-619} BlockPos{x=-803, y=75, z=-620}
+[20Dec2024 05:30:19.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-619} BlockPos{x=-803, y=75, z=-620}
+[20Dec2024 05:30:19.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-619} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:19.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-619} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:19.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-619} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:19.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-619} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-619} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-618} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-618} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-618} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-618} BlockPos{x=-803, y=75, z=-619}
+[20Dec2024 05:30:20.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-617} BlockPos{x=-802, y=75, z=-618}
+[20Dec2024 05:30:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-617} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:20.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-617} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:20.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-617} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:20.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-617} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:20.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-617} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:20.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-618} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:21.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-618} BlockPos{x=-802, y=75, z=-617}
+[20Dec2024 05:30:21.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-618} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-618} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:21.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-617} BlockPos{x=-803, y=75, z=-618}
+[20Dec2024 05:30:22.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=75, z=-618} BlockPos{x=-804, y=75, z=-618}
+[20Dec2024 05:30:22.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-619} BlockPos{x=-805, y=75, z=-618}
+[20Dec2024 05:30:22.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-619} BlockPos{x=-805, y=75, z=-618}
+[20Dec2024 05:30:22.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-619} BlockPos{x=-805, y=75, z=-618}
+[20Dec2024 05:30:22.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-619} BlockPos{x=-805, y=75, z=-618}
+[20Dec2024 05:31:08.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=71, z=-615} BlockPos{x=-811, y=71, z=-616}
+[20Dec2024 05:31:08.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=71, z=-615} BlockPos{x=-811, y=71, z=-616}
+[20Dec2024 05:31:08.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=71, z=-615} BlockPos{x=-811, y=71, z=-616}
+[20Dec2024 05:32:33.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to Camilacapita: porfi, si? deja de molestarlo un poco. Te quiero Cami
+[20Dec2024 05:33:01.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> che, ns quien sea, pero ya no es divertido que me roben la caña de azucar
+[20Dec2024 05:33:08.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ok
+[20Dec2024 05:33:22.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> ya hable de esto con leo
+[20Dec2024 05:33:34.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aa3eb07
+[20Dec2024 05:33:34.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:48993] logged in with entity id 116955 at (-729.6999999880791, 3.0, 103.69999998807907)
+[20Dec2024 05:33:34.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[20Dec2024 05:34:02.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] ya esta, dejen de joder
+[20Dec2024 05:37:24.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai estas?
+[20Dec2024 05:37:47.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 05:37:47.042] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-05.37.47.dat
+[20Dec2024 05:37:47.042] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -800 Y: 66.0 Z: -623
+[20Dec2024 05:38:30.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64 [Sugar Cane] to Flancito0_
+[20Dec2024 05:38:40.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was shot by Skeleton
+[20Dec2024 05:38:40.137] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-05.38.40.dat
+[20Dec2024 05:38:40.137] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -722 Y: 4.0 Z: 93
+[20Dec2024 05:38:40.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> gracias leo
+[20Dec2024 05:38:58.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> maiiiiiiii
+[20Dec2024 05:39:20.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> q haces mai
+[20Dec2024 05:42:15.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> ah, y ahora esta todo reforzado, la unica forma de entrar a mi casa es por la puerta, y por si acaso hay una torreta esperando
+[20Dec2024 05:42:37.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> lo digo por la rata que me roba todo
+[20Dec2024 05:42:56.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Disconnected
+[20Dec2024 05:42:56.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[20Dec2024 05:43:42.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was crushed by a falling tree
+[20Dec2024 05:43:42.335] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-05.43.42.dat
+[20Dec2024 05:43:42.335] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -860 Y: 64.0 Z: -564
+[20Dec2024 05:45:15.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 has made the advancement [Diamonds!]
+[20Dec2024 05:47:17.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi died because of Runner
+[20Dec2024 05:50:09.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f868808
+[20Dec2024 05:50:09.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:45737] logged in with entity id 125481 at (-799.7219903187919, 81.0, -625.4106703665127)
+[20Dec2024 05:50:09.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[20Dec2024 05:51:44.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ño
+[20Dec2024 05:51:56.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pedernal
+[20Dec2024 06:02:24.273] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[20Dec2024 06:02:44.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Boomer
+[20Dec2024 06:02:44.983] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Uzumaki0502 with unique ID travelersbackpack.wolf_20.12.2024-06.02.44.dat
+[20Dec2024 06:02:44.984] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -570 Y: 64.0 Z: 101
+[20Dec2024 06:06:11.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/105738, l='ServerLevel[Mundito]', x=-607.08, y=64.00, z=55.47] died, message: 'Mason was slain by Runner'
+[20Dec2024 06:08:36.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 06:08:36.791] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-06.08.36.dat
+[20Dec2024 06:08:36.791] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -804 Y: 71.0 Z: -622
+[20Dec2024 06:11:02.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> me voy
+[20Dec2024 06:11:07.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> <3
+[20Dec2024 06:11:10.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci
+[20Dec2024 06:11:17.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> bye
+[20Dec2024 06:11:21.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Disconnected
+[20Dec2024 06:11:21.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[20Dec2024 06:12:52.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zzzzzzzzzzzzzzz
+[20Dec2024 06:12:52.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:53.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zz
+[20Dec2024 06:12:53.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zz
+[20Dec2024 06:12:53.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zz
+[20Dec2024 06:12:53.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zz
+[20Dec2024 06:12:53.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:54.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:54.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:54.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zzzz
+[20Dec2024 06:12:54.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:55.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> zzz
+[20Dec2024 06:12:55.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Uzumaki0502> z
+[20Dec2024 06:12:55.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Kicked for spamming
+[20Dec2024 06:12:55.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 left the game
+[20Dec2024 06:13:06.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@dfa6c2b
+[20Dec2024 06:13:06.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:49169] logged in with entity id 134295 at (-605.5, 64.0, 58.5)
+[20Dec2024 06:13:06.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[20Dec2024 06:13:09.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> spam
+[20Dec2024 06:14:36.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> tmb me voy
+[20Dec2024 06:14:41.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> a mimir
+[20Dec2024 06:14:53.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Flancito0_> voy a dejar mi torreta por si acaso
+[20Dec2024 06:15:47.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[20Dec2024 06:15:47.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 06:18:37.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
+[20Dec2024 06:18:37.132] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Uzumaki0502 with unique ID travelersbackpack.wolf_20.12.2024-06.18.37.dat
+[20Dec2024 06:18:37.132] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -781 Y: 69.0 Z: -420
+[20Dec2024 06:23:40.078] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61ac7cd5
+[20Dec2024 06:23:40.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:36661] logged in with entity id 138638 at (-800.5207702111782, 86.0625, -625.3925947949405)
+[20Dec2024 06:23:40.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx joined the game
+[20Dec2024 06:24:35.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 has made the advancement [Hot Stuff]
+[20Dec2024 06:24:57.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 06:26:23.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
