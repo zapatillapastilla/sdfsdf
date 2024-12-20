@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-19 05:25:59 +0000"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 04:51:58 +0000"
@@ -466,6 +478,12 @@
       "has_redstone": "2024-12-19 05:57:28 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "tundra": "2024-12-20 07:33:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -776,6 +794,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-19 05:31:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
     },
     "done": true
   },
@@ -1230,12 +1254,17 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 06:56:07 +0000",
       "minecraft:taiga": "2024-12-19 06:02:31 +0000",
+      "minecraft:frozen_river": "2024-12-20 07:32:26 +0000",
       "minecraft:beach": "2024-12-19 05:57:56 +0000",
       "minecraft:river": "2024-12-19 05:44:26 +0000",
+      "minecraft:snowy_plains": "2024-12-20 07:31:52 +0000",
       "minecraft:cold_ocean": "2024-12-20 03:48:10 +0000",
       "minecraft:forest": "2024-12-19 05:08:06 +0000",
       "minecraft:lush_caves": "2024-12-19 05:58:11 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 07:29:34 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-20 07:30:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 07:05:05 +0000",
+      "minecraft:snowy_beach": "2024-12-20 07:29:30 +0000",
       "minecraft:meadow": "2024-12-19 05:42:19 +0000",
       "minecraft:plains": "2024-12-20 04:53:46 +0000"
     },
@@ -1307,9 +1336,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 07:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
     },
     "done": true
   },
@@ -1574,6 +1615,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 06:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-20 07:26:39 +0000"
     },
     "done": true
   },
@@ -1876,6 +1923,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-20 07:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2024-12-20 05:47:23 +0000"
@@ -2116,6 +2175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-19 05:35:10 +0000"
@@ -2323,6 +2388,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-20 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-20 07:26:39 +0000"
     },
     "done": true
   },
@@ -2536,6 +2607,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "tundra": "2024-12-20 07:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 06:02:02 +0000"
@@ -2587,6 +2664,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2024-12-19 05:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 07:34:00 +0000"
     },
     "done": true
   },
