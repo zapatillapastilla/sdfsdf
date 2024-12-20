@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-14 23:35:36 +0000"
@@ -539,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 20:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-12-15 22:53:16 +0000"
@@ -665,6 +677,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/mud_brick_from_smelting": {
+    "criteria": {
+      "has_mud_ball": "2024-12-19 21:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 23:07:36 +0000"
@@ -734,6 +752,7 @@
       "lavender_field": "2024-12-15 01:38:32 +0000",
       "fir_clearing": "2024-12-16 01:47:27 +0000",
       "prairie": "2024-12-15 00:28:33 +0000",
+      "glowing_grotto": "2024-12-19 21:00:58 +0000",
       "undergrowth": "2024-12-19 06:16:55 +0000"
     },
     "done": false
@@ -876,6 +895,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-14 23:22:09 +0000"
@@ -909,6 +934,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 21:46:59 +0000"
     },
     "done": true
   },
@@ -947,6 +978,7 @@
       "minecraft:pillager": "2024-12-18 01:36:24 +0000",
       "minecraft:blaze": "2024-12-18 03:31:53 +0000",
       "minecraft:skeleton": "2024-12-15 00:42:11 +0000",
+      "minecraft:magma_cube": "2024-12-19 18:49:16 +0000",
       "minecraft:spider": "2024-12-15 01:42:55 +0000",
       "minecraft:creeper": "2024-12-15 02:23:11 +0000",
       "minecraft:zombified_piglin": "2024-12-18 03:31:13 +0000",
@@ -1024,6 +1056,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-19 20:13:42 +0000"
     },
     "done": true
   },
@@ -1255,6 +1293,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 20:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-17 05:32:17 +0000"
@@ -1321,6 +1365,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 17:50:18 +0000"
@@ -1348,6 +1398,12 @@
   "immersive_weathering:immersive_weathering/moss_off_2": {
     "criteria": {
       "wax_off": "2024-12-17 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 21:46:59 +0000"
     },
     "done": true
   },
@@ -1396,6 +1452,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-15 00:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 20:25:25 +0000"
     },
     "done": true
   },
@@ -1474,6 +1536,12 @@
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-18 03:23:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 21:46:59 +0000"
     },
     "done": true
   },
@@ -1854,6 +1922,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-19 21:47:15 +0000",
       "minecraft:taiga": "2024-12-15 02:30:00 +0000",
       "minecraft:eroded_badlands": "2024-12-17 22:16:59 +0000",
       "minecraft:frozen_river": "2024-12-19 00:08:26 +0000",
@@ -1864,6 +1933,7 @@
       "minecraft:river": "2024-12-14 23:38:21 +0000",
       "minecraft:cold_ocean": "2024-12-19 00:16:08 +0000",
       "minecraft:forest": "2024-12-15 00:33:47 +0000",
+      "minecraft:lush_caves": "2024-12-19 21:37:47 +0000",
       "minecraft:frozen_ocean": "2024-12-19 00:14:33 +0000",
       "minecraft:desert": "2024-12-17 22:01:38 +0000",
       "minecraft:windswept_forest": "2024-12-18 23:55:10 +0000",
@@ -1998,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-19 21:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-15 00:36:12 +0000"
@@ -2100,6 +2176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-19 19:44:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-12-15 00:16:54 +0000"
@@ -2117,6 +2199,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 19:44:42 +0000"
     },
     "done": true
   },
@@ -2740,6 +2828,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-15 17:53:39 +0000"
@@ -2785,6 +2879,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 17:50:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
     },
     "done": true
   },
@@ -3124,6 +3224,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mud": {
+    "criteria": {
+      "has_item": "2024-12-19 21:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-15 00:17:41 +0000"
@@ -3301,6 +3407,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-18 15:55:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-12-19 19:26:24 +0000"
     },
     "done": true
   },
@@ -3538,6 +3650,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-19 19:44:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
@@ -3592,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 21:46:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:36 +0000"
@@ -3637,6 +3767,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 19:44:42 +0000"
     },
     "done": true
   },
@@ -3700,6 +3836,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2024-12-15 01:36:45 +0000"
@@ -3760,6 +3902,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 21:46:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 05:06:55 +0000"
@@ -3793,6 +3941,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 02:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 21:46:59 +0000"
     },
     "done": true
   },
@@ -3847,6 +4001,12 @@
   "travelersbackpack:recipes/travelersbackpack/bookshelf": {
     "criteria": {
       "has_book": "2024-12-15 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 21:46:59 +0000"
     },
     "done": true
   },
@@ -4273,6 +4433,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 19:26:24 +0000"
     },
     "done": true
   },
