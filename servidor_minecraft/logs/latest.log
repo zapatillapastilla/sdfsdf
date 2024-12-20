@@ -3190,3 +3190,165 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 20:47:36.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
 [20Dec2024 20:47:36.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
 [20Dec2024 20:47:37.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 20:49:42.513] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58e6d188
+[20Dec2024 20:49:42.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:38961] logged in with entity id 475 at (-799.9966891622989, 71.0, -622.4754969834727)
+[20Dec2024 20:49:42.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 20:50:12.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[20Dec2024 20:50:12.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 20:50:33.171] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c94309f
+[20Dec2024 20:50:33.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:37673] logged in with entity id 578 at (-799.8299156563506, 81.0, -623.2814532981937)
+[20Dec2024 20:50:33.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[20Dec2024 20:51:55.922] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2659d76
+[20Dec2024 20:51:55.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:32857] logged in with entity id 891 at (-799.9966891622989, 71.0, -622.4754969834727)
+[20Dec2024 20:51:55.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 20:52:26.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[20Dec2024 20:52:26.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 20:53:20.317] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@442897ba
+[20Dec2024 20:53:20.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:47665] logged in with entity id 1198 at (-799.9966891622989, 71.0, -622.4754969834727)
+[20Dec2024 20:53:20.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 20:53:50.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[20Dec2024 20:53:50.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 20:54:30.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 20:54:30.359] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-20.54.30.dat
+[20Dec2024 20:54:30.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -804 Y: 81.0 Z: -626
+[20Dec2024 20:55:24.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 20:55:24.338] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-20.55.24.dat
+[20Dec2024 20:55:24.339] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -803 Y: 81.0 Z: -626
+[20Dec2024 20:55:48.168] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ff922f
+[20Dec2024 20:55:48.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:47271] logged in with entity id 1895 at (-799.9966891622989, 71.0, -622.4754969834727)
+[20Dec2024 20:55:48.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 20:59:45.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-626} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:45.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-626} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:45.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-626} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:45.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-626} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-625} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 20:59:46.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-626} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 20:59:46.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-626} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 20:59:46.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-626} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 20:59:46.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-626} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 20:59:46.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-627} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 20:59:46.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=82, z=-627} BlockPos{x=-800, y=82, z=-625}
+[20Dec2024 21:02:54.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran me das caña para hojas?
+[20Dec2024 21:02:57.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=82, z=-627} BlockPos{x=-805, y=81, z=-627}
+[20Dec2024 21:02:57.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=82, z=-627} BlockPos{x=-805, y=81, z=-627}
+[20Dec2024 21:02:57.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=82, z=-627} BlockPos{x=-805, y=81, z=-627}
+[20Dec2024 21:02:57.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=83, z=-627} BlockPos{x=-805, y=82, z=-627}
+[20Dec2024 21:02:57.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=83, z=-627} BlockPos{x=-805, y=82, z=-627}
+[20Dec2024 21:02:57.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=83, z=-627} BlockPos{x=-805, y=82, z=-627}
+[20Dec2024 21:02:57.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=83, z=-627} BlockPos{x=-805, y=82, z=-627}
+[20Dec2024 21:03:07.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci
+[20Dec2024 21:03:08.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> 2
+[20Dec2024 21:03:25.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ira
+[20Dec2024 21:10:17.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita has made the advancement [What a Deal!]
+[20Dec2024 21:11:38.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] se
+[20Dec2024 21:12:03.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci
+[20Dec2024 21:12:16.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> yo tengo te lo doy :v?
+[20Dec2024 21:12:59.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> como q?
+[20Dec2024 21:13:21.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no sirve
+[20Dec2024 21:13:27.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> solo es para tuyo
+[20Dec2024 21:14:16.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran ese no sirve :v
+[20Dec2024 21:15:35.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo
+[20Dec2024 21:15:43.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> para q servia el modificador?
+[20Dec2024 21:15:50.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> de contraseñas?
+[20Dec2024 21:15:52.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci
+[20Dec2024 21:16:03.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> oki
+[20Dec2024 21:17:44.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> y como funciona el modificador de bloques?
+[20Dec2024 21:19:17.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ira
+[20Dec2024 21:22:36.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran ven
+[20Dec2024 21:22:56.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> aver abrelo
+[20Dec2024 21:25:11.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tsunamiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+[20Dec2024 21:25:14.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :p
+[20Dec2024 21:26:31.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=81, z=-627} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 21:26:31.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=81, z=-627} BlockPos{x=-800, y=81, z=-627}
+[20Dec2024 21:26:58.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:26:58.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:26:58.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:26:58.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:26:58.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:26:58.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=81, z=-627} BlockPos{x=-799, y=81, z=-627}
+[20Dec2024 21:27:31.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo tene oro?
+[20Dec2024 21:27:40.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pipipipi
+[20Dec2024 21:27:51.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> SI TIENES
+[20Dec2024 21:28:02.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[20Dec2024 21:28:02.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ilacapita  121 23 344<--[HERE]
+[20Dec2024 21:28:02.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tienes 3
+[20Dec2024 21:28:13.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Camilacapita to 121.500000, 23.000000, 344.500000
+[20Dec2024 21:28:13.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[20Dec2024 21:28:13.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ush
+[20Dec2024 21:28:21.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Camilacapita to Flancito0_
+[20Dec2024 21:29:05.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 21:29:05.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asddaasdasdasdasdasdasdasd<--[HERE]
+[20Dec2024 21:29:07.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 21:29:07.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asdasdasdasdasd<--[HERE]
+[20Dec2024 21:30:02.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> alerta de gey :0
+[20Dec2024 21:30:08.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 21:30:08.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-21.30.08.dat
+[20Dec2024 21:30:08.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -803 Y: 71.0 Z: -623
+[20Dec2024 21:30:33.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ira fran
+[20Dec2024 21:31:01.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no sirve para mi xd
+[20Dec2024 21:31:54.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> puedo unu?
+[20Dec2024 21:32:08.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ñio
+[20Dec2024 21:34:39.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran ven afuera de base
+[20Dec2024 21:35:26.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ven
+[20Dec2024 21:36:35.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ven pue
+[20Dec2024 21:38:08.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mime primero
+[20Dec2024 21:38:19.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> zzzzzzzzzzzzzz
+[20Dec2024 21:38:20.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> zzzzzzzzzz
+[20Dec2024 21:38:21.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> zzzzzzzzz
+[20Dec2024 21:39:04.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> juguemo verda o reto, verda o reto?
+[20Dec2024 21:39:21.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> es verdad que aguantas esto
+[20Dec2024 21:39:24.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was blown up by Camilacapita
+[20Dec2024 21:39:24.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-21.39.24.dat
+[20Dec2024 21:39:24.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -799 Y: 61.2255805726372 Z: -663
+[20Dec2024 21:39:58.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mmmm
+[20Dec2024 21:40:10.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> reto comerme la polla :p
+[20Dec2024 21:40:25.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 21:40:25.790] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-21.40.25.dat
+[20Dec2024 21:40:25.790] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -830 Y: 62.25976447410744 Z: -647
+[20Dec2024 21:40:29.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xd
+[20Dec2024 21:41:38.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Camilacapita to -773.500000, 120.000000, -625.500000
+[20Dec2024 21:41:43.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 120.000000, -621.500000
+[20Dec2024 21:41:52.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :3
+[20Dec2024 21:43:13.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 30.000000, -621.500000
+[20Dec2024 21:43:22.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Camilacapita to Flancito0_
+[20Dec2024 21:43:44.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 40.000000, -621.500000
+[20Dec2024 21:43:53.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 50.000000, -621.500000
+[20Dec2024 21:44:03.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 60.000000, -621.500000
+[20Dec2024 21:44:06.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -773.500000, 70.000000, -621.500000
+[20Dec2024 21:44:15.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Camilacapita to Flancito0_
+[20Dec2024 21:44:21.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Flancito0_ using [Tsukikage]
+[20Dec2024 21:44:30.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was burnt to a crisp whilst fighting Runner
+[20Dec2024 21:44:30.219] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-21.44.30.dat
+[20Dec2024 21:44:30.220] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -790 Y: 66.0 Z: -624
+[20Dec2024 21:45:24.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 21:45:24.939] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-21.45.24.dat
+[20Dec2024 21:45:24.939] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -810 Y: 69.92159999847412 Z: -627
+[20Dec2024 21:45:50.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> *mini explocion :D*
+[20Dec2024 21:46:03.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 21:46:03.567] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-21.46.03.dat
+[20Dec2024 21:46:03.567] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -803 Y: 71.0 Z: -624
+[20Dec2024 21:46:44.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 21:46:44.605] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-21.46.44.dat
+[20Dec2024 21:46:44.605] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -799 Y: 72.16610926093821 Z: -629
+[20Dec2024 21:46:44.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita moved wrongly!
+[20Dec2024 21:47:17.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> e?
+[20Dec2024 21:47:27.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> *mini explocion :3?*
+[20Dec2024 21:48:17.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 21:49:03.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> XD
+[20Dec2024 21:49:16.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> por abusarme >:c
+[20Dec2024 21:52:14.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> q
+[20Dec2024 21:52:18.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ñio
+[20Dec2024 21:52:33.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ñio
+[20Dec2024 21:52:48.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita has made the advancement [Enchanter]
+[20Dec2024 21:52:48.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Flancito0_ using [Tsukikage]
+[20Dec2024 21:52:48.591] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-21.52.48.dat
+[20Dec2024 21:52:48.592] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -804 Y: 66.0 Z: -617
+[20Dec2024 21:53:00.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> eso es trampa unu
+[20Dec2024 21:53:09.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si lo es unu
+[20Dec2024 21:56:00.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> hordas
