@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/rift_stabilizer": {
+    "criteria": {
+      "has_iron": "2024-12-20 03:28:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:45 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-14 23:07:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -617,6 +629,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2024-12-20 03:26:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 03:02:05 +0000"
@@ -1019,6 +1037,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-18 20:09:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -1472,6 +1496,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2024-12-20 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-15 01:47:59 +0000"
@@ -1667,6 +1697,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone": {
+    "criteria": {
+      "has_item": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -1915,6 +1951,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-18 01:17:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/ims": {
+    "criteria": {
+      "has_radar": "2024-12-20 03:26:14 +0000"
     },
     "done": true
   },
@@ -2186,6 +2228,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-15 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -2471,6 +2519,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2024-12-20 03:27:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-14 23:29:16 +0000"
@@ -2561,6 +2615,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2024-12-20 03:27:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:45 +0000"
@@ -2588,6 +2648,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-15 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -3130,6 +3196,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_reader": {
+    "criteria": {
+      "has_stone": "2024-12-20 03:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-14 23:07:45 +0000"
@@ -3196,9 +3268,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2024-12-20 03:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-17 23:42:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },
@@ -3613,6 +3697,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 03:02:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2024-12-20 03:27:26 +0000"
     },
     "done": true
   },

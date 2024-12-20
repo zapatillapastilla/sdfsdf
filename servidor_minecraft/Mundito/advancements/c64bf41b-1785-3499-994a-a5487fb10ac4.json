@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-20 03:59:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-17 20:13:30 +0000"
@@ -626,6 +632,12 @@
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 03:28:58 +0000"
     },
     "done": true
   },
@@ -3194,6 +3206,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-15 00:16:54 +0000"
@@ -3758,6 +3776,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-20 03:59:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2024-12-14 23:07:36 +0000"
@@ -4301,6 +4325,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-15 00:43:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/mossy_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 03:45:16 +0000"
     },
     "done": true
   },

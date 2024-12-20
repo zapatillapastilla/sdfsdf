@@ -915,6 +915,7 @@
       "minecraft:skeleton": "2024-12-15 22:51:46 +0000",
       "minecraft:spider": "2024-12-17 17:34:43 +0000",
       "minecraft:creeper": "2024-12-18 18:03:54 +0000",
+      "minecraft:slime": "2024-12-20 03:48:37 +0000",
       "minecraft:zombified_piglin": "2024-12-18 04:24:03 +0000",
       "minecraft:enderman": "2024-12-17 06:17:52 +0000",
       "minecraft:silverfish": "2024-12-17 06:32:37 +0000",
@@ -2062,6 +2063,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-18 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-20 03:11:12 +0000"
     },
     "done": true
   },

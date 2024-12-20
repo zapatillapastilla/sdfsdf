@@ -4003,3 +4003,269 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 03:01:37.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
 [20Dec2024 03:01:40.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> XD
 [20Dec2024 03:03:00.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> XD?
+[20Dec2024 03:06:52.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tienes xp?
+[20Dec2024 03:07:00.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 03:07:00.935] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.07.00.dat
+[20Dec2024 03:07:00.936] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -808 Y: 66.0 Z: -618
+[20Dec2024 03:07:14.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[20Dec2024 03:07:14.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-03.07.14.dat
+[20Dec2024 03:07:14.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -799 Y: 66.54626930198307 Z: -623
+[20Dec2024 03:07:26.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:07:39.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:07:41.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e767426
+[20Dec2024 03:07:41.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iiHo_shi[/127.239.243.88:46425] logged in with entity id 42768 at (-805.5391445561352, 74.0, -624.2147873926855)
+[20Dec2024 03:07:41.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi joined the game
+[20Dec2024 03:08:28.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 03:08:28.955] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.08.28.dat
+[20Dec2024 03:08:28.955] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -812 Y: 76.0 Z: -620
+[20Dec2024 03:08:55.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:09:05.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was pummeled by Flancito0_
+[20Dec2024 03:09:05.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-03.09.05.dat
+[20Dec2024 03:09:05.574] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -804 Y: 71.0 Z: -622
+[20Dec2024 03:10:03.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo
+[20Dec2024 03:10:05.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was pummeled by Flancito0_
+[20Dec2024 03:10:05.396] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-03.10.05.dat
+[20Dec2024 03:10:05.396] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -804 Y: 71.0 Z: -629
+[20Dec2024 03:10:08.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tienes pedernal?
+[20Dec2024 03:10:26.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> oeee no supe esto :0
+[20Dec2024 03:10:47.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si pongo lava en mi mano se ilumina
+[20Dec2024 03:10:56.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :3
+[20Dec2024 03:11:00.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> que bonito
+[20Dec2024 03:11:12.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi has made the advancement [The Cutest Predator]
+[20Dec2024 03:11:41.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -773.500000, 120.000000, -621.500000]
+[20Dec2024 03:12:04.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-776, y=120, z=-622} BlockPos{x=-776, y=119, z=-622}
+[20Dec2024 03:12:05.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to -773.500000, 120.000000, -617.500000]
+[20Dec2024 03:12:08.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Flancito0_]
+[20Dec2024 03:12:14.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Flancito0_]
+[20Dec2024 03:12:17.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to -773.500000, 120.000000, -617.500000]
+[20Dec2024 03:12:20.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 03:12:26.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-776, y=120, z=-623} BlockPos{x=-776, y=119, z=-623}
+[20Dec2024 03:12:30.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-776, y=120, z=-623} BlockPos{x=-776, y=119, z=-623}
+[20Dec2024 03:12:35.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to -773.500000, 120.000000, -621.500000]
+[20Dec2024 03:12:43.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Flancito0_]
+[20Dec2024 03:12:44.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:12:44.825] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-03.12.44.dat
+[20Dec2024 03:12:44.825] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -774 Y: 120.0 Z: -622
+[20Dec2024 03:12:47.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to -773.500000, 120.000000, -625.500000]
+[20Dec2024 03:12:59.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uy
+[20Dec2024 03:13:03.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to EroDragonEx]
+[20Dec2024 03:13:06.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Flancito0_ to EroDragonEx]
+[20Dec2024 03:13:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-774, y=120, z=-623} BlockPos{x=-774, y=119, z=-623}
+[20Dec2024 03:13:22.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-774, y=120, z=-623} BlockPos{x=-774, y=119, z=-623}
+[20Dec2024 03:15:15.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:15:22.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:15:22.880] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-03.15.22.dat
+[20Dec2024 03:15:22.880] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -795 Y: 57.24666196028281 Z: -675
+[20Dec2024 03:15:30.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:15:36.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was decimated by iiHo_shi
+[20Dec2024 03:15:36.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:15:36.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> MI CARCEEEL
+[20Dec2024 03:15:39.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:16:09.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:16:27.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 4 entities to EroDragonEx]
+[20Dec2024 03:16:43.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was shot by Skeleton
+[20Dec2024 03:16:43.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-03.16.43.dat
+[20Dec2024 03:16:43.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -792 Y: 66.0 Z: -630
+[20Dec2024 03:16:56.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:17:00.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was shot by Skeleton
+[20Dec2024 03:17:53.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo ponme en la carcel
+[20Dec2024 03:17:59.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 03:17:59.205] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.17.59.dat
+[20Dec2024 03:17:59.205] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -775 Y: 120.0 Z: -619
+[20Dec2024 03:18:02.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:18:35.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:18:55.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 03:18:58.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 03:20:01.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ñio
+[20Dec2024 03:20:59.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> toy en la carcel pdj fran
+[20Dec2024 03:21:29.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:21:46.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mira la carcel xd
+[20Dec2024 03:21:58.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:22:02.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 03:22:02.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.22.02.dat
+[20Dec2024 03:22:02.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -775 Y: 120.0 Z: -624
+[20Dec2024 03:22:09.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:22:13.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 03:22:16.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:22:18.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 03:22:21.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:22:27.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita tried to swim in lava
+[20Dec2024 03:22:30.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:24:21.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:24:23.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:24:29.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:24:30.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[20Dec2024 03:24:34.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 03:26:14.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita hit the ground too hard
+[20Dec2024 03:26:14.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.26.14.dat
+[20Dec2024 03:26:14.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -809 Y: 64.0 Z: -638
+[20Dec2024 03:26:14.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Killed Camilacapita]
+[20Dec2024 03:27:10.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el diamante si existe mondolico
+[20Dec2024 03:27:22.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pero el diamante ci
+[20Dec2024 03:27:43.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> y gracias por acordarme
+[20Dec2024 03:27:49.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ire por netherite
+[20Dec2024 03:28:06.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai ven te enseñare como sacar netherite
+[20Dec2024 03:28:12.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 03:28:28.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pedernal mas q nd
+[20Dec2024 03:29:31.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was shot by Sentry
+[20Dec2024 03:29:31.092] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-03.29.31.dat
+[20Dec2024 03:29:31.092] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -806 Y: 72.24918707874468 Z: -619
+[20Dec2024 03:29:43.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:30:23.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:30:23.079] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Flancito0_ with unique ID travelersbackpack.wolf_20.12.2024-03.30.23.dat
+[20Dec2024 03:30:23.079] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -801 Y: 71.0 Z: -625
+[20Dec2024 03:30:45.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was pummeled by Camilacapita
+[20Dec2024 03:30:53.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 03:30:53.108] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.30.53.dat
+[20Dec2024 03:30:53.108] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -811 Y: 72.0 Z: -617
+[20Dec2024 03:31:01.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> entero malo
+[20Dec2024 03:31:29.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> lo hace de broma pdj
+[20Dec2024 03:32:05.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48e91d31
+[20Dec2024 03:32:05.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:37399] logged in with entity id 52301 at (-801.4085708143382, 82.0, -620.3559265412787)
+[20Dec2024 03:32:05.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[20Dec2024 03:32:05.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 03:32:36.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was pummeled by Flancito0_
+[20Dec2024 03:33:13.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ola uzu
+[20Dec2024 03:33:42.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el sabe jugar mine :v
+[20Dec2024 03:33:54.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> yo si
+[20Dec2024 03:33:59.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si no sabes no es mi cul-
+[20Dec2024 03:34:08.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> se cosas q tu ni sabes
+[20Dec2024 03:34:36.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> aver como conseguir hierro mas rapido sin granja y solo minando como se hace?
+[20Dec2024 03:34:39.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :3
+[20Dec2024 03:34:39.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-622} BlockPos{x=-800, y=75, z=-621}
+[20Dec2024 03:34:39.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-622} BlockPos{x=-800, y=75, z=-621}
+[20Dec2024 03:34:39.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-622} BlockPos{x=-800, y=75, z=-621}
+[20Dec2024 03:34:39.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:39.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:39.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:39.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:39.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:40.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-622} BlockPos{x=-799, y=75, z=-621}
+[20Dec2024 03:34:40.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-623} BlockPos{x=-798, y=75, z=-622}
+[20Dec2024 03:34:40.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-623} BlockPos{x=-798, y=75, z=-622}
+[20Dec2024 03:34:40.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-623} BlockPos{x=-798, y=75, z=-622}
+[20Dec2024 03:34:40.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-623} BlockPos{x=-798, y=75, z=-622}
+[20Dec2024 03:34:40.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:40.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:40.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-624} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:41.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-798, y=75, z=-625} BlockPos{x=-797, y=75, z=-623}
+[20Dec2024 03:34:42.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-625} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-625} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-625} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-625} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-799, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-624} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-625} BlockPos{x=-798, y=75, z=-625}
+[20Dec2024 03:34:42.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-625} BlockPos{x=-799, y=75, z=-625}
+[20Dec2024 03:34:42.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=75, z=-625} BlockPos{x=-799, y=75, z=-625}
+[20Dec2024 03:34:43.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-624} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-624} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-624} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-624} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-625} BlockPos{x=-800, y=75, z=-624}
+[20Dec2024 03:34:43.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:43.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:43.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-624} BlockPos{x=-802, y=75, z=-625}
+[20Dec2024 03:34:44.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-625} BlockPos{x=-803, y=75, z=-624}
+[20Dec2024 03:34:44.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-625} BlockPos{x=-803, y=75, z=-624}
+[20Dec2024 03:34:44.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-803, y=75, z=-625} BlockPos{x=-803, y=75, z=-624}
+[20Dec2024 03:34:44.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-625} BlockPos{x=-803, y=75, z=-625}
+[20Dec2024 03:34:44.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-625} BlockPos{x=-803, y=75, z=-625}
+[20Dec2024 03:34:44.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-625} BlockPos{x=-803, y=75, z=-625}
+[20Dec2024 03:34:44.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-625} BlockPos{x=-803, y=75, z=-625}
+[20Dec2024 03:34:45.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:45.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:45.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:45.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:45.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:45.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-624} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:46.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-626} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:46.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-626} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:46.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-626} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:46.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-626} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:34:46.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=75, z=-626} BlockPos{x=-804, y=75, z=-625}
+[20Dec2024 03:36:25.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> esta en espectador
+[20Dec2024 03:36:42.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> esta viendo :v
+[20Dec2024 03:37:04.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 03:37:18.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> coloca 1
+[20Dec2024 03:38:16.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx fell from a high place
+[20Dec2024 03:38:16.360] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_20.12.2024-03.38.16.dat
+[20Dec2024 03:38:16.360] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -803 Y: 68.0 Z: -609
+[20Dec2024 03:38:18.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uzu tienes xp?
+[20Dec2024 03:41:49.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[20Dec2024 03:41:53.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[20Dec2024 03:42:07.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Disconnected
+[20Dec2024 03:42:07.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 03:43:26.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[20Dec2024 03:43:26.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 03:44:10.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uzu
+[20Dec2024 03:44:18.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai
+[20Dec2024 03:44:28.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> los 3 a conseguir pederlak
+[20Dec2024 03:44:47.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pedernal*
+[20Dec2024 03:44:55.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> aprovechando q no estan
+[20Dec2024 03:45:07.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si igual leo y fran saben
+[20Dec2024 03:45:51.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ci yo igual
+[20Dec2024 03:46:09.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uzu ya q sos mi amigo seras de nuestro equipo :3
+[20Dec2024 03:50:38.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Sentry
+[20Dec2024 03:50:38.906] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-03.50.38.dat
+[20Dec2024 03:50:38.906] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -812 Y: 72.91381912288905 Z: -622
+[20Dec2024 03:51:15.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Sentry
+[20Dec2024 03:51:42.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-809, y=73, z=-617} BlockPos{x=-809, y=71, z=-617}
+[20Dec2024 03:51:44.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was blown up by Bomber
+[20Dec2024 03:51:44.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Uzumaki0502 with unique ID travelersbackpack.wolf_20.12.2024-03.51.44.dat
+[20Dec2024 03:51:44.536] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -781 Y: 68.19639200782943 Z: -609
+[20Dec2024 03:51:46.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Sentry
+[20Dec2024 03:52:10.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Boomer
+[20Dec2024 03:52:10.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_20.12.2024-03.52.10.dat
+[20Dec2024 03:52:10.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -750 Y: 20.0 Z: -36
+[20Dec2024 03:54:09.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was killed by Witch using magic
+[20Dec2024 03:55:03.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=64, z=-120} BlockPos{x=-804, y=62, z=-119}
+[20Dec2024 03:55:03.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=64, z=-120} BlockPos{x=-804, y=62, z=-119}
+[20Dec2024 03:55:03.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=64, z=-120} BlockPos{x=-804, y=62, z=-119}
+[20Dec2024 03:55:51.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> msg iiHo_shi tiene 0 de caña xd
+[20Dec2024 03:56:13.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uta
+[20Dec2024 03:56:35.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> y q le paso a los demas?
+[20Dec2024 03:57:10.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[20Dec2024 03:57:53.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tengo una bromita para fran xd
+[20Dec2024 03:58:30.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Assasin Black Ops
+[20Dec2024 04:00:26.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai y uzu
+[20Dec2024 04:00:31.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si pueden
+[20Dec2024 04:00:48.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> traiganme 2 ender peals
+[20Dec2024 04:01:13.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> solo 2
+[20Dec2024 04:01:31.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> en cual cofre mai?
+[20Dec2024 04:01:56.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> q?
+[20Dec2024 04:02:25.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ño esta en el barril ni en el cofre
+[20Dec2024 04:02:40.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tranqui
+[20Dec2024 04:02:53.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ire al nether
+[20Dec2024 04:02:54.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 was slain by Runner
