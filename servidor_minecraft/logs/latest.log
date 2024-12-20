@@ -3207,3 +3207,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [20Dec2024 00:59:37.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
 [20Dec2024 01:00:21.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Disconnected
 [20Dec2024 01:00:21.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[20Dec2024 01:05:05.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -1434.500000, 23.000000, -70.500000
+[20Dec2024 01:05:07.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was slain by Infected Military
+[20Dec2024 01:05:12.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -1434.500000, 23.000000, -70.500000
+[20Dec2024 01:05:13.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was slain by Infected Military
+[20Dec2024 01:05:19.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Flancito0_ to -1434.500000, 23.000000, -70.500000
+[20Dec2024 01:05:30.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[20Dec2024 01:05:30.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[20Dec2024 01:11:22.070] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a9dc8ce
+[20Dec2024 01:11:22.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.161.242.179:56119] logged in with entity id 4798 at (-1434.5, 23.0, -70.5)
+[20Dec2024 01:11:22.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ joined the game
+[20Dec2024 01:13:06.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fb5db03
+[20Dec2024 01:13:06.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:59425] logged in with entity id 5175 at (-800.4867186470005, 81.0, -626.2036516197087)
+[20Dec2024 01:13:06.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[20Dec2024 01:19:56.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Skeleton
+[20Dec2024 01:19:56.158] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.pumpkin_20.12.2024-01.19.56.dat
+[20Dec2024 01:19:56.158] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -808 Y: 65.20000004768372 Z: -633
+[20Dec2024 01:21:40.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell while climbing
+[20Dec2024 01:22:53.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> fran llama a leo
+[20Dec2024 01:23:03.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> desaparecio mi tumba de la nada xd
