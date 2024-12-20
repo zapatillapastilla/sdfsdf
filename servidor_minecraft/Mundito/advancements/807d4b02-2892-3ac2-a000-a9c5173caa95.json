@@ -1544,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-20 23:34:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/remote_access_sentry": {
     "criteria": {
       "has_sentry": "2024-12-20 03:28:56 +0000"
@@ -1613,6 +1619,12 @@
   "securitycraft:recipes/securitycraft/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-15 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 22:37:36 +0000"
     },
     "done": true
   },
@@ -2122,6 +2134,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-20 22:42:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-15 00:15:38 +0000"
@@ -2154,7 +2172,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-18 03:25:56 +0000"
+      "minecraft:nether_wastes": "2024-12-18 03:25:56 +0000",
+      "minecraft:warped_forest": "2024-12-20 23:33:35 +0000"
     },
     "done": false
   },
@@ -2167,6 +2186,12 @@
   "securitycraft:recipes/securitycraft/red_lens": {
     "criteria": {
       "has_glass_pane": "2024-12-18 23:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-20 22:45:33 +0000"
     },
     "done": true
   },
@@ -3376,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-20 23:34:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-15 02:31:41 +0000"
@@ -3652,6 +3683,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2024-12-20 22:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 23:07:45 +0000"
@@ -3853,6 +3890,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 03:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-20 22:45:33 +0000"
     },
     "done": true
   },
