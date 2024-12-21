@@ -97,3 +97,93 @@
 [21Dec2024 00:39:40.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
 [21Dec2024 00:39:40.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
 [21Dec2024 00:39:45.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to -3742.500000, 15.000000, -871.500000]
+[21Dec2024 00:41:38.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:41:45.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:43:24.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:43:27.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:43:52.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=85, z=-625} BlockPos{x=-799, y=85, z=-625}
+[21Dec2024 00:43:56.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=85, z=-627} BlockPos{x=-797, y=85, z=-627}
+[21Dec2024 00:44:20.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-797, y=85, z=-615} BlockPos{x=-798, y=85, z=-615}
+[21Dec2024 00:52:13.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:52:15.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:53:53.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:53:55.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:54:08.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:54:40.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:54:46.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[21Dec2024 00:55:17.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:55:37.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:55:51.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:57:06.679] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@112b515a
+[21Dec2024 00:57:06.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:53229] logged in with entity id 94173 at (-996.6999999880791, -13.0, -627.6947083841069)
+[21Dec2024 00:57:06.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[21Dec2024 00:57:34.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to iiHo_shi]
+[21Dec2024 00:58:06.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Chainsaw
+[21Dec2024 00:58:06.422] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.cake_21.12.2024-00.58.06.dat
+[21Dec2024 00:58:06.422] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -3676 Y: -51.58000001311302 Z: -913
+[21Dec2024 00:58:16.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo tp base
+[21Dec2024 00:58:18.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> unu
+[21Dec2024 00:58:19.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:58:30.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:58:37.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:58:44.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 00:59:29.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Spider
+[21Dec2024 00:59:29.067] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_21.12.2024-00.59.29.dat
+[21Dec2024 00:59:29.067] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -3721 Y: -43.0 Z: -933
+[21Dec2024 00:59:40.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> hasme tp a mai
+[21Dec2024 00:59:42.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Chainsaw
+[21Dec2024 00:59:50.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xd
+[21Dec2024 00:59:52.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 00:59:57.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported 3 entities to EroDragonEx]
+[21Dec2024 00:59:59.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:02:26.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[21Dec2024 01:02:28.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ese me abusa
+[21Dec2024 01:02:32.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[21Dec2024 01:02:40.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:02:47.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:03:11.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Assasin Black Ops
+[21Dec2024 01:03:19.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was shot by Skeleton
+[21Dec2024 01:03:25.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:03:30.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:04:33.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Runner
+[21Dec2024 01:05:22.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[21Dec2024 01:05:44.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:05:48.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:06:01.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx hit the ground too hard whilst trying to escape Creeper
+[21Dec2024 01:06:22.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> quero ir ala base xd
+[21Dec2024 01:06:31.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[21Dec2024 01:06:37.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[21Dec2024 01:06:39.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:06:42.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[21Dec2024 01:06:46.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:07:07.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Chainsaw
+[21Dec2024 01:07:14.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was shot by Skeleton
+[21Dec2024 01:07:20.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was shot by Skeleton
+[21Dec2024 01:07:33.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:07:37.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Chainsaw
+[21Dec2024 01:07:37.118] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iiHo_shi with unique ID travelersbackpack.cactus_21.12.2024-01.07.37.dat
+[21Dec2024 01:07:37.119] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -3710 Y: -53.126661018527365 Z: -900
+[21Dec2024 01:07:45.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[21Dec2024 01:07:49.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:08:00.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Boomer
+[21Dec2024 01:08:07.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Night Hunter
+[21Dec2024 01:08:18.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[21Dec2024 01:08:24.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:08:36.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:08:39.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Chainsaw
+[21Dec2024 01:08:48.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:08:49.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:08:51.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[21Dec2024 01:09:10.181] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d6a04f0
+[21Dec2024 01:09:10.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:33915] logged in with entity id 101258 at (-2312.3028539090083, 63.0, 1822.3730366434165)
+[21Dec2024 01:09:10.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 joined the game
+[21Dec2024 01:09:24.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Night Hunter
+[21Dec2024 01:09:31.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:09:33.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[21Dec2024 01:09:33.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Uzumaki0502 left the game
+[21Dec2024 01:09:35.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[21Dec2024 01:10:14.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[21Dec2024 01:10:39.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[21Dec2024 01:10:59.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Successfully restored iiHo_shi's items]
+[21Dec2024 01:11:14.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[21Dec2024 01:11:42.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
