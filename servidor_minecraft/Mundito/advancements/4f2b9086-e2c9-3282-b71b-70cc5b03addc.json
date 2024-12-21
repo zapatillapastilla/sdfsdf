@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 05:26:07 +0000"
@@ -505,7 +511,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-21 02:39:28 +0000",
       "cold_desert": "2024-12-20 07:46:43 +0000",
+      "maple_woods": "2024-12-21 01:31:44 +0000",
+      "seasonal_forest": "2024-12-21 02:37:43 +0000",
+      "dead_forest": "2024-12-21 01:33:42 +0000",
+      "prairie": "2024-12-21 02:37:44 +0000",
       "snowy_coniferous_forest": "2024-12-20 08:05:55 +0000",
       "snowy_fir_clearing": "2024-12-20 08:05:50 +0000",
       "tundra": "2024-12-20 07:33:01 +0000",
@@ -534,6 +545,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-20 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-21 01:28:09 +0000"
     },
     "done": true
   },
@@ -582,6 +599,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
     },
     "done": true
   },
@@ -639,6 +662,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-21 01:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-20 04:34:24 +0000"
@@ -691,6 +720,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 04:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:38:26 +0000"
     },
     "done": true
   },
@@ -910,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 01:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-19 05:25:59 +0000"
@@ -1003,6 +1044,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-19 05:29:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-21 01:47:06 +0000"
     },
     "done": true
   },
@@ -1409,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-21 01:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 04:42:56 +0000"
@@ -1505,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-19 05:35:10 +0000"
@@ -1514,6 +1573,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
     },
     "done": true
   },
@@ -1634,6 +1699,12 @@
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2024-12-20 05:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
     },
     "done": true
   },
@@ -1875,6 +1946,9 @@
     "criteria": {
       "sweet_berries": "2024-12-20 04:06:03 +0000",
       "baked_potato": "2024-12-19 06:21:47 +0000",
+      "beef": "2024-12-21 02:38:29 +0000",
+      "apple": "2024-12-21 01:51:14 +0000",
+      "potato": "2024-12-21 01:49:41 +0000",
       "bread": "2024-12-20 05:05:24 +0000",
       "golden_apple": "2024-12-20 05:49:00 +0000",
       "cookie": "2024-12-20 07:53:40 +0000",
@@ -2135,6 +2209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-19 05:31:58 +0000"
@@ -2222,6 +2302,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 06:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
     },
     "done": true
   },
@@ -2573,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 01:47:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-19 05:29:36 +0000"
@@ -2582,6 +2674,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-20 06:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
     },
     "done": true
   },
@@ -2681,6 +2779,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-21 01:47:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 07:11:09 +0000"
@@ -2702,6 +2806,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 06:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 01:47:06 +0000"
     },
     "done": true
   },
@@ -2744,6 +2854,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-19 05:57:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-21 01:47:06 +0000"
     },
     "done": true
   },
@@ -2807,9 +2923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:38:26 +0000"
     },
     "done": true
   },
@@ -2846,6 +2974,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-19 05:33:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/mossy_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-21 01:28:33 +0000"
     },
     "done": true
   },
@@ -2909,6 +3043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 01:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-19 05:35:10 +0000"
@@ -2954,6 +3094,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 05:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:38:26 +0000"
     },
     "done": true
   },

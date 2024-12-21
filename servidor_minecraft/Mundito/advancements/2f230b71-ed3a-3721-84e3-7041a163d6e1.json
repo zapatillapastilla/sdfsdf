@@ -698,6 +698,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-15 21:19:09 +0000",
+      "rocky_shrubland": "2024-12-21 01:31:54 +0000",
       "fungal_jungle": "2024-12-17 22:20:30 +0000",
       "lush_savanna": "2024-12-17 21:49:25 +0000",
       "highland": "2024-12-21 00:17:44 +0000",
@@ -711,6 +712,7 @@
       "dryland": "2024-12-17 21:46:46 +0000",
       "old_growth_dead_forest": "2024-12-15 20:47:44 +0000",
       "lush_desert": "2024-12-17 21:47:23 +0000",
+      "highland_moor": "2024-12-21 01:30:15 +0000",
       "seasonal_forest": "2024-12-15 21:19:45 +0000",
       "pasture": "2024-12-15 21:22:12 +0000",
       "lavender_field": "2024-12-15 00:35:17 +0000",

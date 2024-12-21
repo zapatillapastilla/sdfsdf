@@ -1043,6 +1043,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2024-12-21 02:28:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-12-14 23:29:16 +0000"
