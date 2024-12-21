@@ -700,7 +700,9 @@
       "shrubland": "2024-12-15 21:19:09 +0000",
       "fungal_jungle": "2024-12-17 22:20:30 +0000",
       "lush_savanna": "2024-12-17 21:49:25 +0000",
+      "highland": "2024-12-21 00:17:44 +0000",
       "old_growth_woodland": "2024-12-17 21:15:18 +0000",
+      "maple_woods": "2024-12-20 23:48:46 +0000",
       "wooded_wasteland": "2024-12-17 21:45:54 +0000",
       "field": "2024-12-14 23:38:30 +0000",
       "mediterranean_forest": "2024-12-17 21:15:09 +0000",
@@ -713,7 +715,10 @@
       "pasture": "2024-12-15 21:22:12 +0000",
       "lavender_field": "2024-12-15 00:35:17 +0000",
       "fir_clearing": "2024-12-15 21:25:04 +0000",
-      "prairie": "2024-12-15 21:19:14 +0000"
+      "prairie": "2024-12-15 21:19:14 +0000",
+      "snowy_coniferous_forest": "2024-12-20 23:53:08 +0000",
+      "snowy_fir_clearing": "2024-12-20 23:56:11 +0000",
+      "tundra": "2024-12-20 23:42:53 +0000"
     },
     "done": false
   },
@@ -1188,6 +1193,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 00:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-17 06:22:53 +0000"
@@ -1320,6 +1331,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-20 23:52:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-15 00:04:06 +0000"
@@ -1377,6 +1394,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-17 18:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 00:36:38 +0000"
     },
     "done": true
   },
@@ -1905,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 00:36:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cyan_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-17 17:56:14 +0000"
@@ -1951,7 +1980,10 @@
       "minecraft:beach": "2024-12-14 23:43:43 +0000",
       "minecraft:sparse_jungle": "2024-12-17 22:21:04 +0000",
       "minecraft:river": "2024-12-15 00:11:32 +0000",
+      "minecraft:stony_shore": "2024-12-20 23:57:28 +0000",
+      "minecraft:snowy_plains": "2024-12-20 23:38:21 +0000",
       "minecraft:dripstone_caves": "2024-12-15 19:20:18 +0000",
+      "minecraft:snowy_taiga": "2024-12-20 23:40:48 +0000",
       "minecraft:cold_ocean": "2024-12-15 20:54:57 +0000",
       "minecraft:forest": "2024-12-15 00:29:16 +0000",
       "minecraft:frozen_ocean": "2024-12-15 20:46:37 +0000",
@@ -3965,6 +3997,12 @@
   "projectvibrantjourneys:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-15 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 00:36:38 +0000"
     },
     "done": true
   },
